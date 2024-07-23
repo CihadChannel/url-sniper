@@ -1,0 +1,25 @@
+{
+    "name": "cihadchannel-url-sniper",
+    "version": "0.0.1",
+    "description": "DJSV12 Boş Altyapı",
+    "main": "cihadchannel.js",
+    "scripts": {
+        "start": "node cihadchannel.js"
+    },
+    "dependencies": {
+        "delay": "^6.0.0",
+        "discord.js": "^12.2.0",
+        "request": "^2.88.2"
+    },
+    "engines": {
+        "node": "16.x"
+    },
+    "license": "MIT",
+    "keywords": [
+        "node",
+        "glitch",
+        "express",
+        "Piece",
+        "Serendia"
+    ]
+}
